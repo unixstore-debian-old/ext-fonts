@@ -1,0 +1,151 @@
+--- [SYSTEM] PACK: 'ext-fonts' (*.orig.tar.xz)
+File 'ext-fonts_1.0.0.orig.tar.xz' found!
+--- [SYSTEM] BUILD: 'github.com/unixstore/debian-ext-fonts.git'
+dpkg-source: info: using source format '3.0 (quilt)'
+dpkg-source: info: building ext-fonts using existing ./ext-fonts_1.0.0.orig.tar.xz
+dpkg-source: warning: ignoring deletion of file local.conf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of directory fonts
+dpkg-source: warning: ignoring deletion of directory fonts/microsoft
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/calibriz.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/timesbd.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/tahoma.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/consolaz.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/calibril.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/consolab.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/palab.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/mvboli.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/holomdl2.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/seguisbi.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/Inkfree.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/consolai.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/taileb.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/verdanaz.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/segoeuib.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/Candaral.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/segmdl2.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/LeelawUI.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/arialbd.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/seguisli.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/segoeprb.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/ntailu.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/consola.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/timesi.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/seguihis.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/seguili.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/marlett.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/calibrib.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/wingding.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/segoeuiz.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/impact.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/monbaiti.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/NirmalaB.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/framd.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/malgunbd.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/comicz.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/corbelli.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/javatext.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/trebuc.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/corbell.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/phagspab.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/courbd.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/seguisb.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/comicbd.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/LeelUIsl.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/lucon.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/mmrtext.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/Candarali.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/seguibli.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/corbeli.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/gadugi.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/Candarai.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/cambriaz.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/corbel.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/constanz.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/malgunsl.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/pala.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/sylfaen.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/georgiaz.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/verdana.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/mmrtextb.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/timesbi.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/simsunb.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/verdanab.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/ebrima.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/segoeuisl.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/Candarab.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/segoeuii.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/cambriai.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/segoescb.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/phagspa.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/verdanai.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/calibrili.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/bahnschrift.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/constan.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/corbelb.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/comici.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/times.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/l_10646.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/seguiemj.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/symbol.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/micross.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/segoepr.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/couri.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/framdit.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/palabi.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/seguisym.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/arial.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/Nirmala.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/segoesc.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/NirmalaS.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/palai.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/ntailub.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/msyi.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/cour.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/calibrii.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/comic.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/trebucbd.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/LeelaUIb.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/Candaraz.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/cambriab.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/arialbi.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/gadugib.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/Gabriola.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/seguibl.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/courbi.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/segoeui.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/georgia.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/georgiab.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/ebrimabd.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/calibri.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/segoeuil.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/constanb.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/tahomabd.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/ariblk.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/himalaya.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/trebucbi.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/taile.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/georgiai.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/trebucit.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/Candara.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/ariali.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/constani.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/webdings.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/malgun.ttf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of file fonts/microsoft/corbelz.ttf, use --include-removal to override
+dpkg-source: info: building ext-fonts in ext-fonts_1.0.0-1001.debian.tar.xz
+dpkg-source: info: building ext-fonts in ext-fonts_1.0.0-1001.dsc
+File 'ext-fonts_1.0.0-1001.dsc' found!
+Build completed!
+--- [SYSTEM] MOVE: '/root/git/src' -> '/root/git/dst'
+Removing old files from repository...
+Moving new files to repository...
+renamed '/root/git/src/_service' -> '/root/git/dst/_service'
+renamed '/root/git/src/_meta' -> '/root/git/dst/_meta'
+renamed '/root/git/src/README.md' -> '/root/git/dst/README.md'
+renamed '/root/git/src/LICENSE' -> '/root/git/dst/LICENSE'
+renamed '/root/git/src/ext-fonts_1.0.0-1001.debian.tar.xz' -> '/root/git/dst/ext-fonts_1.0.0-1001.debian.tar.xz'
+renamed '/root/git/src/ext-fonts_1.0.0.orig.tar.xz' -> '/root/git/dst/ext-fonts_1.0.0.orig.tar.xz'
+renamed '/root/git/src/ext-fonts_1.0.0.orig.tar.xz.sha256' -> '/root/git/dst/ext-fonts_1.0.0.orig.tar.xz.sha256'
+renamed '/root/git/src/ext-fonts_1.0.0-1001.dsc' -> '/root/git/dst/ext-fonts_1.0.0-1001.dsc'
+renamed '/root/git/src/build.log' -> '/root/git/dst/build.log'
+/bin/mv: cannot stat '/root/git/src/*.sha256': No such file or directory
