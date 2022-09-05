@@ -156,3 +156,4 @@ renamed '/root/git/src/ext-fonts_1.0.0-1001.debian.tar.xz' -> '/root/git/dst/ext
 renamed '/root/git/src/ext-fonts_1.0.0.orig.tar.xz' -> '/root/git/dst/ext-fonts_1.0.0.orig.tar.xz'
 renamed '/root/git/src/ext-fonts_1.0.0-1001.dsc' -> '/root/git/dst/ext-fonts_1.0.0-1001.dsc'
 renamed '/root/git/src/build.log' -> '/root/git/dst/build.log'
+Copy GitHub Action 'mirror.yml' to repository...
